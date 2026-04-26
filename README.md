@@ -30,10 +30,13 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technologies & Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,prisma,postgresql,git,nodejs" />
+<p style="margin-left: 30px">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=prisma,postgresql,sqlite,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github" /></br>
+  <img src="https://skillicons.dev/icons?i=figma,discord,vscode"/>
 </p>
 
 ---
