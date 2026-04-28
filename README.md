@@ -1,102 +1,123 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Rainiel;Frontend+Developer;Next.js+Enthusiast;DTS+Trainee" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Aspiring Computer Engineer • Frontend Developer • DTS Trainee</b>
-</p>
+<!-- Dramatic banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=FEN&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rdejito&label=Profile%20Views&color=dc143c&style=flat" />
-  <a href="https://github.com/rdejito">
-    <img src="https://img.shields.io/github/followers/rdejito?label=Followers&style=social" />
-  </a>
-</p>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+Frontend+Developer+%7C+DTS+Trainee;%F0%9F%94%A5+Next.js+%2B+TypeScript+%2B+Prisma;%F0%9F%8C%9F+Building+Scalable+Web+Apps;%E2%9C%A8+We+do+ordinary+things+extraordinarily+well" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Badges row -->
+<img src="https://komarev.com/ghpvc/?username=rdejito&label=Profile+Views&color=dc143c&style=flat-square" />
+&nbsp;
+<a href="https://github.com/rdejito"><img src="https://img.shields.io/github/followers/rdejito?label=Followers&style=flat-square&color=dc143c" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Building-dc143c?style=flat-square" />
 
-- 💡 Currently exploring **Next.js (App Router) for production-ready apps**
-- 🚀 Working with **TypeScript, React, Prisma ORM, PostgreSQL**
-- 🎯 DTS Trainee focused on real-world development experience
-- 📚 Passionate about building scalable, clean web applications
+</div>
 
 ---
 
-## 🧠 Current Focus
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%" />
 
-- Building a **full-stack task management app** with Next.js App Router + Prisma + PostgreSQL
-- Improving database design & system architecture
-- Preparing for real-world dev workflows (team + production environments)
+## ⚡ 一 Who Am I
+
+```typescript
+const rainiel = {
+  role: ["Frontend Developer", "DTS Trainee", "Aspiring Full Stack Developer"],
+  stack: ["Next.js", "TypeScript", "React", "Prisma ORM", "PostgreSQL"],
+  building: "Full-stack task management app (App Router + Prisma + PostgreSQL)",
+  creed: "Consistency is choosing to show up and move forward, no matter how small the step.",
+  status: "Leveling up every single day 🔥",
+};
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 二 Current Arc
 
-<p align="center">
+```
+▸ Mastering Next.js App Router for production-grade systems
+▸ Deepening database architecture & system design skills
+▸ Shipping real-world projects as a DTS Trainee
+▸ Learning the full dev lifecycle — team workflows, CI/CD, deployment
+```
+
+---
+
+## 🚀 三 Featured Projects
+
+<div align="center">
   <a href="https://github.com/rdejito/React-LMS-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdejito&repo=React-LMS-v2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdejito&repo=React-LMS-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c" />
   </a>
-</p>
+</div>
 
 ---
 
-## ⚙️ Technologies & Tools I Use
+## ⚙️ 四 Arsenal
 
-<table>
-  <tr>
-    <td style="padding-left: 40px;">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs" /><br>
-<img src="https://skillicons.dev/icons?i=prisma,postgresql,sqlite,mysql" /><br>
-<img src="https://skillicons.dev/icons?i=git,github" /><br>
-<img src="https://skillicons.dev/icons?i=figma,discord,vscode"/>
+**Frontend**
 
-  </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
 
----
+**Backend & Database**
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=prisma,postgresql,sqlite,mysql&theme=dark" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rdejito&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdejito&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,discord&theme=dark" />
+
+</div>
 
 ---
 
-## 🔥 Streak
+## 📊 五 Battle Records
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rdejito&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdejito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&ring_color=dc143c&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdejito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&card_width=400&langs_count=8" />
+</div>
 
----
+<br/>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdejito&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Portfolio
-
-- 🚧 Coming soon — check back or see my pinned repos above!
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rdejito&theme=tokyonight&hide_border=true&background=0d1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" />
+</div>
 
 ---
 
-## 📫 Contact
+## 📈 六 Activity Log
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dejitoleiniar0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rainiel-dejito-b60288394)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdejito&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=dc143c&line=dc143c&point=ffffff" />
+</div>
 
 ---
 
-<p align="center">
-  <em>⭐ We do ordinary things extraordinarily well — <a href="https://cite.edu.ph/">CITE</a> (Center for Industrial Technology) Inc.</em>
-</p>
+## 🌐 七 Base of Operations
+
+> 🚧 Portfolio incoming — watch this space.
+
+---
+
+## 📡 八 Contact Channels
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dejitoleiniar0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rainiel-dejito-b60288394)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<div align="center">
+  <sub>⭐ <em>We do ordinary things extraordinarily well</em> — <a href="https://cite.edu.ph/">CITE</a> (Center for Industrial Technology) Inc.</sub>
+</div>
