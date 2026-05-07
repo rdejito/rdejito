@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=FEN&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+Frontend+Developer+%7C+DTS+Trainee;%F0%9F%94%A5+Next.js+%2B+TypeScript+%2B+Prisma;%F0%9F%8C%9F+Building+Scalable+Web+Apps;%E2%9C%A8+We+do+ordinary+things+extraordinarily+well" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+Frontend+Developer+%7C+DTS+Trainee;%F0%9F%94%A5+Next.js+%2B+TypeScript+%2B+Prisma;%F0%9F%8C%9F+Building+Scalable+Web+Apps;" />
 
 <br/>
 
 <!-- Badges row -->
 <img src="https://komarev.com/ghpvc/?username=rdejito&label=Profile+Views&color=dc143c&style=flat-square" />
 &nbsp;
-<a href="https://github.com/rdejito"><img src="https://img.shields.io/github/followers/rdejito?label=Followers&style=flat-square&color=dc143c" /></a>
+<a href="https://github.com/rdejito"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdejito?color=dc143c&style=flat-square=for-the-badge&logo=github&label=Follow"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Building-dc143c?style=flat-square" />
 
@@ -28,7 +28,8 @@ const rainiel = {
   role: ["Frontend Developer", "DTS Trainee", "Aspiring Full Stack Developer"],
   stack: ["Next.js", "TypeScript", "React", "Prisma ORM", "PostgreSQL"],
   building: "Full-stack task management app (App Router + Prisma + PostgreSQL)",
-  creed: "Consistency is choosing to show up and move forward, no matter how small the step.",
+  creed:
+    "Consistency is choosing to show up and move forward, no matter how small the step.",
   status: "Leveling up every single day 🔥",
 };
 ```
@@ -48,11 +49,9 @@ const rainiel = {
 
 ## 🚀 三 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/rdejito/React-LMS-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdejito&repo=React-LMS-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c" />
-  </a>
-</div>
+```
+▸ No featured projects yet...
+```
 
 ---
 
@@ -66,7 +65,7 @@ const rainiel = {
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=prisma,postgresql,sqlite,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=prisma,postgresql,sqlite,mysql,nestjs&theme=dark" />
 
 **Tools**
 
