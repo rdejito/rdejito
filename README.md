@@ -77,10 +77,9 @@ const rainiel = {
 
 ## 📊 五 Battle Records
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdejito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&ring_color=dc143c&card_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdejito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&card_width=400&langs_count=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rdejito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&ring_color=dc143c&card_width=400" />
+</p>
 
 <br/>
 
@@ -118,5 +117,5 @@ const rainiel = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
-  <sub>⭐ <em>We do ordinary things extraordinarily well</em> — <a href="https://cite.edu.ph/">CITE</a> (Center for Industrial Technology) Inc.</sub>
+  <em>...</em>
 </div>
