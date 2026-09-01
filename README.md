@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dramatic banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ZEROETHE&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kvy&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+Frontend+Developer+%7C+DTS+Trainee;%F0%9F%94%A5+Next.js+%2B+TypeScript+%2B+Prisma;%F0%9F%8C%9F+Building+Scalable+Web+Apps;" />
@@ -24,7 +24,7 @@
 ## ⚡ 一 Who Am I
 
 ```typescript
-const zeroethe = {
+const kvy = {
   role: ["Frontend Developer", "DTS Trainee", "Aspiring Full Stack Developer"],
   stack: ["Next.js", "TypeScript", "React", "Prisma ORM", "PostgreSQL"],
   building: "Full-stack task management app (App Router + Prisma + PostgreSQL)",
@@ -78,21 +78,15 @@ const zeroethe = {
 ## 📊 五 Battle Records
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rdejito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&ring_color=dc143c&card_width=400" />
+  <!-- Github Rating -->
+    <img src="https://github-stats-extended.vercel.app/api?username=rdejito&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+	&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rdejito&theme=tokyonight&hide_border=true&background=0d1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" />
-</div>
-
----
-
-## 📈 六 Activity Log
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdejito&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=dc143c&line=dc143c&point=ffffff" />
 </div>
 
 ---
