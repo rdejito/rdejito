@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Dramatic banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kvy&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rainiel&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+Frontend+Developer+%7C+DTS+Trainee;%F0%9F%94%A5+Next.js+%2B+TypeScript+%2B+Prisma;%F0%9F%8C%9F+Building+Scalable+Web+Apps;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+AI+Product+Engineer+%7C+DTS+Trainee;%F0%9F%94%A5+Next.js+%2B+TypeScript+%2B+Prisma;%F0%9F%8C%9F+Building+Scalable+Web+Apps;" />
 
 <br/>
 
 <!-- Badges row -->
-<img src="https://komarev.com/ghpvc/?username=rdejito&label=Profile+Views&color=dc143c&style=flat-square" />
+![](https://komarev.com/ghpvc/?username=rdejito&color=dc143c)
 &nbsp;
 <a href="https://github.com/rdejito"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdejito?color=dc143c&style=flat-square=for-the-badge&logo=github&label=Follow"/></a>
 &nbsp;
@@ -24,10 +24,10 @@
 ## ⚡ 一 Who Am I
 
 ```typescript
-const kvy = {
-  role: ["Frontend Developer", "DTS Trainee", "Aspiring Full Stack Developer"],
-  stack: ["Next.js", "TypeScript", "React", "Prisma ORM", "PostgreSQL"],
-  building: "Full-stack task management app (App Router + Prisma + PostgreSQL)",
+const rainiel = {
+  role: ["Frontend Developer", "DTS Trainee", "Aspiring Full Stack Developer", "AI Product Engineer"],
+  stack: ["Next.js", "JavaScript/TypeScript", "React", "Prisma ORM", "PostgreSQL"],
+  building: "Photobooth made with React, Vite, MUI, and WebRTC via [PeerJS]",
   creed:
     "Consistency is choosing to show up and move forward, no matter how small the step.",
   status: "Leveling up every single day 🔥",
@@ -39,7 +39,7 @@ const kvy = {
 ## 🔥 二 Current Arc
 
 ```
-▸ Mastering Next.js App Router for production-grade systems
+▸ Mastering React for production-grade systems
 ▸ Deepening database architecture & system design skills
 ▸ Shipping real-world projects as a DTS Trainee
 ▸ Learning the full dev lifecycle — team workflows, CI/CD, deployment
